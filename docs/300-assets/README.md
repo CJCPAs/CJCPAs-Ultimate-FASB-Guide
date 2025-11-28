@@ -14,10 +14,10 @@ The 300 series covers accounting for assets including receivables, inventory, in
 | [ASC 321](asc-321-equity-securities.md) | Investments—Equity Securities | Fair value measurement |
 | [ASC 323](asc-323-equity-method.md) | Investments—Equity Method | Significant influence |
 | [ASC 326](asc-326-credit-losses.md) | **Credit Losses (CECL)** | Current expected credit loss model |
-| ASC 330 | Inventory | Cost methods, LCM/NRV |
+| [ASC 330](asc-330-inventory.md) | **Inventory** | Cost methods, LCM/NRV |
 | ASC 340 | Other Assets and Deferred Costs | Prepaids, deferred charges |
-| ASC 350 | Intangibles—Goodwill and Other | Goodwill impairment, amortization |
-| ASC 360 | Property, Plant, and Equipment | Depreciation, impairment |
+| [ASC 350](asc-350-intangibles-goodwill.md) | **Intangibles—Goodwill and Other** | Goodwill impairment, amortization |
+| [ASC 360](asc-360-ppe.md) | **Property, Plant, and Equipment** | Depreciation, impairment |
 
 ---
 
@@ -55,6 +55,10 @@ The Current Expected Credit Loss (CECL) model requires entities to recognize lif
 
 ### ASC 330: Inventory
 
+📌 **Major Standard — Core inventory accounting principles**
+
+See detailed guide: [ASC 330: Inventory](asc-330-inventory.md)
+
 **Cost Flow Assumptions:**
 - FIFO (First-In, First-Out)
 - LIFO (Last-In, First-Out) — US GAAP only
@@ -74,6 +78,10 @@ The Current Expected Credit Loss (CECL) model requires entities to recognize lif
 
 ### ASC 350: Intangibles—Goodwill and Other
 
+📌 **Major Standard — Goodwill and intangible asset accounting**
+
+See detailed guide: [ASC 350: Intangibles—Goodwill and Other](asc-350-intangibles-goodwill.md)
+
 **Goodwill Impairment Testing:**
 
 **For Public Business Entities:**
@@ -92,6 +100,10 @@ The Current Expected Credit Loss (CECL) model requires entities to recognize lif
 ---
 
 ### ASC 360: Property, Plant, and Equipment
+
+📌 **Major Standard — PP&E accounting and impairment**
+
+See detailed guide: [ASC 360: Property, Plant, and Equipment](asc-360-ppe.md)
 
 **Depreciation:**
 - Systematic and rational allocation over useful life

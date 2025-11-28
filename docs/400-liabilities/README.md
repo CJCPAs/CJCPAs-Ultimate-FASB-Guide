@@ -13,7 +13,7 @@ The 400 series covers accounting for liabilities including debt arrangements, le
 | ASC 420 | Exit or Disposal Cost Obligations | Restructuring |
 | ASC 430 | Deferred Revenue | Contract liabilities |
 | ASC 440 | Commitments | Purchase commitments |
-| ASC 450 | Contingencies | Loss and gain contingencies |
+| [ASC 450](asc-450-contingencies.md) | **Contingencies** | Loss and gain contingencies |
 | ASC 460 | Guarantees | Product warranties, indemnifications |
 | [ASC 470](asc-470-debt.md) | **Debt** | Modifications, debt issuance costs |
 | ASC 480 | Distinguishing Liabilities from Equity | Redeemable instruments |
@@ -60,6 +60,10 @@ ASC 842 requires lessees to recognize most leases on the balance sheet as a righ
 ---
 
 ### ASC 450: Contingencies
+
+📌 **Major Standard — Loss and gain contingency accounting**
+
+See detailed guide: [ASC 450: Contingencies](asc-450-contingencies.md)
 
 **Loss Contingencies:**
 
