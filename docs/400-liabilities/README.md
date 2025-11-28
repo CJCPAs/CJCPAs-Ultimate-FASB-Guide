@@ -15,7 +15,7 @@ The 400 series covers accounting for liabilities including debt arrangements, le
 | ASC 440 | Commitments | Purchase commitments |
 | ASC 450 | Contingencies | Loss and gain contingencies |
 | ASC 460 | Guarantees | Product warranties, indemnifications |
-| ASC 470 | Debt | Modifications, debt issuance costs |
+| [ASC 470](asc-470-debt.md) | **Debt** | Modifications, debt issuance costs |
 | ASC 480 | Distinguishing Liabilities from Equity | Redeemable instruments |
 | [ASC 842](asc-842-leases.md) | **Leases** | Right-of-use model |
 
@@ -81,6 +81,10 @@ ASC 842 requires lessees to recognize most leases on the balance sheet as a righ
 ---
 
 ### ASC 470: Debt
+
+📌 **Major Standard — Debt accounting, modifications, and convertibles**
+
+See detailed guide: [ASC 470: Debt](asc-470-debt.md)
 
 **Debt Modifications vs. Extinguishments:**
 

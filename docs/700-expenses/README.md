@@ -15,7 +15,7 @@ The 700 series covers accounting for various types of expenses and costs.
 | ASC 718 | Compensation—Stock Compensation | (See [ASC 500s](../500-equity/README.md)) |
 | ASC 720 | Other Expenses | Advertising, start-up costs |
 | ASC 730 | Research and Development | R&D costs |
-| ASC 740 | Income Taxes | Deferred taxes, uncertain positions |
+| [ASC 740](asc-740-income-taxes.md) | **Income Taxes** | Deferred taxes, uncertain positions |
 
 ---
 
@@ -93,6 +93,8 @@ Employers recognize:
 ### ASC 740: Income Taxes
 
 📌 **Major Standard — Complex area requiring careful analysis**
+
+See detailed guide: [ASC 740: Income Taxes](asc-740-income-taxes.md)
 
 **Overview:**
 
