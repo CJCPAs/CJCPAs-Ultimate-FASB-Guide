@@ -10,9 +10,9 @@ The 300 series covers accounting for assets including receivables, inventory, in
 |-------|-------|---------------|
 | ASC 305 | Cash and Cash Equivalents | Cash definition, restricted cash |
 | [ASC 310](asc-310-receivables.md) | Receivables | Trade receivables, factoring |
-| [ASC 320](asc-320-investments.md) | Investments—Debt Securities | HTM, AFS, trading classifications |
-| [ASC 321](asc-321-equity-securities.md) | Investments—Equity Securities | Fair value measurement |
-| [ASC 323](asc-323-equity-method.md) | Investments—Equity Method | Significant influence |
+| [ASC 320](asc-320-debt-securities.md) | **Investments—Debt Securities** | HTM, AFS, trading classifications |
+| [ASC 321](asc-321-equity-securities.md) | **Investments—Equity Securities** | Fair value measurement |
+| [ASC 323](asc-323-equity-method.md) | **Investments—Equity Method** | Significant influence |
 | [ASC 326](asc-326-credit-losses.md) | **Credit Losses (CECL)** | Current expected credit loss model |
 | [ASC 330](asc-330-inventory.md) | **Inventory** | Cost methods, LCM/NRV |
 | ASC 340 | Other Assets and Deferred Costs | Prepaids, deferred charges |
