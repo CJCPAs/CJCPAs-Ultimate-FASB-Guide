@@ -8,12 +8,12 @@ The 700 series covers accounting for various types of expenses and costs.
 
 | Topic | Title | Key Standards |
 |-------|-------|---------------|
-| ASC 705 | Cost of Sales and Services | Cost of goods sold |
+| [ASC 705](asc-705-cost-of-sales.md) | **Cost of Sales and Services** | Cost of goods sold |
 | [ASC 710](asc-710-compensation-general.md) | **Compensation—General** | Salaries, bonuses, benefits |
 | [ASC 712](asc-712-postemployment-benefits.md) | **Compensation—Nonretirement Postemployment Benefits** | Severance, disability |
 | [ASC 715](asc-715-retirement-benefits.md) | **Compensation—Retirement Benefits** | Pensions, OPEB |
 | ASC 718 | Compensation—Stock Compensation | (See [ASC 500s](../500-equity/README.md)) |
-| ASC 720 | Other Expenses | Advertising, start-up costs |
+| [ASC 720](asc-720-other-expenses.md) | **Other Expenses** | Advertising, start-up costs |
 | [ASC 730](asc-730-research-development.md) | **Research and Development** | R&D costs |
 | [ASC 740](asc-740-income-taxes.md) | **Income Taxes** | Deferred taxes, uncertain positions |
 

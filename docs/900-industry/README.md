@@ -8,35 +8,35 @@ The 900 series provides industry-specific accounting guidance that supplements t
 
 | Topic | Industry | Key Areas |
 |-------|----------|-----------|
-| ASC 905 | Agriculture | Crops, livestock, agricultural cooperatives |
-| ASC 908 | Airlines | Aircraft, frequent flyer programs |
-| ASC 910 | Contractors—Construction | Long-term contracts |
+| [ASC 905](asc-905-agriculture.md) | **Agriculture** | Crops, livestock, agricultural cooperatives |
+| [ASC 908](asc-908-airlines.md) | **Airlines** | Aircraft, frequent flyer programs |
+| [ASC 910](asc-910-contractors-construction.md) | **Contractors—Construction** | Long-term contracts |
 | ASC 912 | Contractors—Federal Government | Government contracts |
 | ASC 915 | Development Stage Entities | (Superseded by ASU 2014-10) |
-| ASC 920 | Entertainment—Broadcasters | License agreements, barter transactions |
+| [ASC 920](asc-920-entertainment-broadcasters.md) | **Entertainment—Broadcasters** | License agreements, barter transactions |
 | ASC 922 | Entertainment—Cable Television | Programming costs |
 | ASC 924 | Entertainment—Casinos | Gaming chips, jackpots |
-| ASC 926 | Entertainment—Films | Film costs, revenue participation |
+| [ASC 926](asc-926-entertainment-films.md) | **Entertainment—Films** | Film costs, revenue participation |
 | ASC 928 | Entertainment—Music | Advances, royalties |
 | ASC 930 | Extractive Activities—Mining | Exploration costs |
-| ASC 932 | Extractive Activities—Oil and Gas | Full cost vs. successful efforts |
+| [ASC 932](asc-932-extractive-oil-gas.md) | **Extractive Activities—Oil and Gas** | Full cost vs. successful efforts |
 | [ASC 940](asc-940-brokers-dealers.md) | **Financial Services—Brokers and Dealers** | Commission revenue |
 | [ASC 942](asc-942-depository-lending.md) | **Financial Services—Depository and Lending** | Loan origination fees |
 | [ASC 944](asc-944-insurance.md) | **Financial Services—Insurance** | Insurance contracts |
 | [ASC 946](asc-946-investment-companies.md) | **Financial Services—Investment Companies** | NAV measurement |
-| ASC 948 | Financial Services—Mortgage Banking | Servicing rights |
+| [ASC 948](asc-948-mortgage-banking.md) | **Financial Services—Mortgage Banking** | Servicing rights |
 | ASC 950 | Financial Services—Title Plant | Title insurance |
 | ASC 952 | Franchisors | Initial franchise fees |
-| ASC 954 | Health Care Entities | Charity care, malpractice |
-| ASC 958 | Not-for-Profit Entities | Contributions, functional expenses |
+| [ASC 954](asc-954-healthcare-entities.md) | **Health Care Entities** | Charity care, malpractice |
+| [ASC 958](asc-958-not-for-profit.md) | **Not-for-Profit Entities** | Contributions, functional expenses |
 | ASC 960-965 | Plan Accounting | Pension and benefit plan reporting |
 | [ASC 970](asc-970-real-estate.md) | **Real Estate—General** | Operating properties, time-shares |
 | ASC 972 | Real Estate—Common Interest | HOAs, condominiums |
 | ASC 974 | Real Estate—REITs | REIT-specific guidance |
 | ASC 976 | Real Estate—Retail Land | Retail land sales |
 | ASC 978 | Real Estate—Time-Sharing | Time-share arrangements |
-| ASC 980 | Regulated Operations | Rate-regulated utilities |
-| ASC 985 | Software | Software development, SaaS |
+| [ASC 980](asc-980-regulated-operations.md) | **Regulated Operations** | Rate-regulated utilities |
+| [ASC 985](asc-985-software.md) | **Software** | Software development, SaaS |
 | ASC 995 | U.S. Steamship Entities | Maritime operations |
 
 ---
