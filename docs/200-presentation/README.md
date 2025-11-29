@@ -8,7 +8,7 @@ The 200 series covers how financial information should be presented in financial
 
 | Topic | Title | Key Standard Documents |
 |-------|-------|------------------------|
-| [ASC 205](asc-205-presentation.md) | Presentation of Financial Statements | Going concern, discontinued operations |
+| [ASC 205](asc-205-going-concern.md) | Presentation of Financial Statements | Going concern, discontinued operations |
 | [ASC 210](asc-210-balance-sheet.md) | Balance Sheet | Classification, offsetting |
 | [ASC 220](asc-220-comprehensive-income.md) | Income Statement—Reporting Comprehensive Income | OCI presentation |
 | [ASC 225](asc-225-income-statement.md) | Income Statement | Unusual items, prior period adjustments |
