@@ -16,7 +16,7 @@ The 200 series covers how financial information should be presented in financial
 | ASC 235 | Notes to Financial Statements | Accounting policies disclosure |
 | [ASC 250](asc-250-accounting-changes.md) | **Accounting Changes and Error Corrections** | Retrospective vs. prospective application |
 | ASC 255 | Changing Prices | Inflation accounting (largely inactive) |
-| ASC 260 | Earnings Per Share | Basic and diluted EPS |
+| [ASC 260](asc-260-earnings-per-share.md) | **Earnings Per Share** | Basic and diluted EPS |
 | ASC 270 | Interim Reporting | Quarterly financial statements |
 | ASC 275 | Risks and Uncertainties | Significant estimates disclosure |
 | [ASC 280](asc-280-segment-reporting.md) | **Segment Reporting** | Operating segment disclosures |
