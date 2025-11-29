@@ -11,17 +11,21 @@ The 700 series covers accounting for various types of expenses and costs.
 | ASC 705 | Cost of Sales and Services | Cost of goods sold |
 | ASC 710 | Compensation—General | Salaries, bonuses, benefits |
 | ASC 712 | Compensation—Nonretirement Postemployment Benefits | Severance, disability |
-| ASC 715 | Compensation—Retirement Benefits | Pensions, OPEB |
+| [ASC 715](asc-715-retirement-benefits.md) | **Compensation—Retirement Benefits** | Pensions, OPEB |
 | ASC 718 | Compensation—Stock Compensation | (See [ASC 500s](../500-equity/README.md)) |
 | ASC 720 | Other Expenses | Advertising, start-up costs |
 | ASC 730 | Research and Development | R&D costs |
-| ASC 740 | Income Taxes | Deferred taxes, uncertain positions |
+| [ASC 740](asc-740-income-taxes.md) | **Income Taxes** | Deferred taxes, uncertain positions |
 
 ---
 
 ## Key Standards
 
 ### ASC 715: Compensation—Retirement Benefits
+
+📌 **Major Standard — Complex pension and OPEB accounting**
+
+See detailed guide: [ASC 715: Compensation—Retirement Benefits](asc-715-retirement-benefits.md)
 
 **Defined Benefit Plans:**
 
@@ -93,6 +97,8 @@ Employers recognize:
 ### ASC 740: Income Taxes
 
 📌 **Major Standard — Complex area requiring careful analysis**
+
+See detailed guide: [ASC 740: Income Taxes](asc-740-income-taxes.md)
 
 **Overview:**
 

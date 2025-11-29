@@ -10,8 +10,8 @@ The 800 series covers significant transactions and accounting concepts that appl
 |-------|-------|---------------|
 | [ASC 805](asc-805-business-combinations.md) | **Business Combinations** | Acquisition method |
 | ASC 808 | Collaborative Arrangements | Joint operating activities |
-| ASC 810 | Consolidation | Variable interest entities, voting interest |
-| [ASC 815](asc-815-derivatives.md) | Derivatives and Hedging | Hedge accounting |
+| [ASC 810](asc-810-consolidation.md) | **Consolidation** | Variable interest entities, voting interest |
+| [ASC 815](asc-815-derivatives-hedging.md) | **Derivatives and Hedging** | Hedge accounting |
 | [ASC 820](asc-820-fair-value.md) | **Fair Value Measurement** | Fair value hierarchy |
 | ASC 825 | Financial Instruments | Fair value option |
 | ASC 830 | Foreign Currency | Translation, transactions |
@@ -59,6 +59,10 @@ Goodwill = Consideration Transferred + NCI + Previously Held Equity
 
 ### ASC 810: Consolidation
 
+📌 **Major Standard — Consolidation and VIE analysis**
+
+See detailed guide: [ASC 810: Consolidation](asc-810-consolidation.md)
+
 **When to Consolidate:**
 
 | Model | Apply When | Consolidate If |
@@ -77,6 +81,10 @@ Goodwill = Consideration Transferred + NCI + Previously Held Equity
 ---
 
 ### ASC 815: Derivatives and Hedging
+
+📌 **Major Standard — Complex derivative and hedge accounting**
+
+See detailed guide: [ASC 815: Derivatives and Hedging](asc-815-derivatives-hedging.md)
 
 **Derivative Characteristics:**
 1. Underlying and notional amount (or payment provision)

@@ -12,14 +12,14 @@ The 200 series covers how financial information should be presented in financial
 | [ASC 210](asc-210-balance-sheet.md) | Balance Sheet | Classification, offsetting |
 | [ASC 220](asc-220-comprehensive-income.md) | Income Statement—Reporting Comprehensive Income | OCI presentation |
 | [ASC 225](asc-225-income-statement.md) | Income Statement | Unusual items, prior period adjustments |
-| [ASC 230](asc-230-cash-flows.md) | Statement of Cash Flows | Operating, investing, financing activities |
+| [ASC 230](asc-230-cash-flows.md) | **Statement of Cash Flows** | Operating, investing, financing activities |
 | ASC 235 | Notes to Financial Statements | Accounting policies disclosure |
-| ASC 250 | Accounting Changes and Error Corrections | Retrospective vs. prospective application |
+| [ASC 250](asc-250-accounting-changes.md) | **Accounting Changes and Error Corrections** | Retrospective vs. prospective application |
 | ASC 255 | Changing Prices | Inflation accounting (largely inactive) |
 | ASC 260 | Earnings Per Share | Basic and diluted EPS |
 | ASC 270 | Interim Reporting | Quarterly financial statements |
 | ASC 275 | Risks and Uncertainties | Significant estimates disclosure |
-| ASC 280 | Segment Reporting | Operating segment disclosures |
+| [ASC 280](asc-280-segment-reporting.md) | **Segment Reporting** | Operating segment disclosures |
 
 ---
 
@@ -44,6 +44,10 @@ Management must evaluate whether substantial doubt exists about the entity's abi
 
 ### ASC 230: Statement of Cash Flows
 
+📌 **Major Standard — Critical financial statement preparation**
+
+See detailed guide: [ASC 230: Statement of Cash Flows](asc-230-cash-flows.md)
+
 **Classification of Cash Flows:**
 
 | Activity | Examples |
@@ -60,6 +64,10 @@ Management must evaluate whether substantial doubt exists about the entity's abi
 
 ### ASC 250: Accounting Changes and Error Corrections
 
+📌 **Major Standard — Restatements, corrections, and changes**
+
+See detailed guide: [ASC 250: Accounting Changes and Error Corrections](asc-250-accounting-changes.md)
+
 | Type of Change | Treatment |
 |----------------|-----------|
 | Change in Accounting Principle | Retrospective application |
@@ -70,6 +78,10 @@ Management must evaluate whether substantial doubt exists about the entity's abi
 ---
 
 ### ASC 280: Segment Reporting
+
+📌 **Major Standard — Recently updated with ASU 2023-07**
+
+See detailed guide: [ASC 280: Segment Reporting](asc-280-segment-reporting.md)
 
 **Recent Update: ASU 2023-07 (Effective December 2024 for public entities)**
 
