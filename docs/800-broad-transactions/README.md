@@ -9,21 +9,21 @@ The 800 series covers significant transactions and accounting concepts that appl
 | Topic | Title | Key Standards |
 |-------|-------|---------------|
 | [ASC 805](asc-805-business-combinations.md) | **Business Combinations** | Acquisition method |
-| ASC 808 | Collaborative Arrangements | Joint operating activities |
+| [ASC 808](asc-808-collaborative-arrangements.md) | **Collaborative Arrangements** | Joint operating activities |
 | [ASC 810](asc-810-consolidation.md) | **Consolidation** | Variable interest entities, voting interest |
 | [ASC 815](asc-815-derivatives-hedging.md) | **Derivatives and Hedging** | Hedge accounting |
 | [ASC 820](asc-820-fair-value.md) | **Fair Value Measurement** | Fair value hierarchy |
-| ASC 825 | Financial Instruments | Fair value option |
-| ASC 830 | Foreign Currency | Translation, transactions |
-| ASC 835 | Interest | Imputation of interest |
+| [ASC 825](asc-825-financial-instruments.md) | **Financial Instruments** | Fair value option |
+| [ASC 830](asc-830-foreign-currency.md) | **Foreign Currency** | Translation, transactions |
+| [ASC 835](asc-835-interest.md) | **Interest** | Imputation of interest |
 | ASC 840 | Leases (Superseded) | See ASC 842 in [400s](../400-liabilities/README.md) |
 | ASC 842 | Leases | (See [400s](../400-liabilities/README.md)) |
-| ASC 845 | Nonmonetary Transactions | Exchanges of nonfinancial assets |
-| ASC 848 | Reference Rate Reform | LIBOR transition |
-| ASC 850 | Related Party Disclosures | Related party transactions |
-| ASC 852 | Reorganizations | Bankruptcy |
-| ASC 855 | Subsequent Events | Post-balance sheet events |
-| ASC 860 | Transfers and Servicing | Securitizations, factoring |
+| [ASC 845](asc-845-nonmonetary-transactions.md) | **Nonmonetary Transactions** | Exchanges of nonfinancial assets |
+| [ASC 848](asc-848-reference-rate-reform.md) | **Reference Rate Reform** | LIBOR transition |
+| [ASC 850](asc-850-related-party-disclosures.md) | **Related Party Disclosures** | Related party transactions |
+| [ASC 852](asc-852-reorganizations.md) | **Reorganizations** | Bankruptcy |
+| [ASC 855](asc-855-subsequent-events.md) | **Subsequent Events** | Post-balance sheet events |
+| [ASC 860](asc-860-transfers-servicing.md) | **Transfers and Servicing** | Securitizations, factoring |
 
 ---
 
