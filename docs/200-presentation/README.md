@@ -13,12 +13,12 @@ The 200 series covers how financial information should be presented in financial
 | [ASC 220](asc-220-comprehensive-income.md) | Income Statement—Reporting Comprehensive Income | OCI presentation |
 | [ASC 225](asc-225-income-statement.md) | Income Statement | Unusual items, prior period adjustments |
 | [ASC 230](asc-230-cash-flows.md) | **Statement of Cash Flows** | Operating, investing, financing activities |
-| ASC 235 | Notes to Financial Statements | Accounting policies disclosure |
+| [ASC 235](asc-235-accounting-policies.md) | **Notes to Financial Statements** | Accounting policies disclosure |
 | [ASC 250](asc-250-accounting-changes.md) | **Accounting Changes and Error Corrections** | Retrospective vs. prospective application |
 | ASC 255 | Changing Prices | Inflation accounting (largely inactive) |
 | [ASC 260](asc-260-earnings-per-share.md) | **Earnings Per Share** | Basic and diluted EPS |
-| ASC 270 | Interim Reporting | Quarterly financial statements |
-| ASC 275 | Risks and Uncertainties | Significant estimates disclosure |
+| [ASC 270](asc-270-interim-reporting.md) | **Interim Reporting** | Quarterly financial statements |
+| [ASC 275](asc-275-risks-uncertainties.md) | **Risks and Uncertainties** | Significant estimates disclosure |
 | [ASC 280](asc-280-segment-reporting.md) | **Segment Reporting** | Operating segment disclosures |
 
 ---
