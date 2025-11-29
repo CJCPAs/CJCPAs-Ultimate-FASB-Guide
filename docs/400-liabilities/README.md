@@ -8,15 +8,15 @@ The 400 series covers accounting for liabilities including debt arrangements, le
 
 | Topic | Title | Key Standards |
 |-------|-------|---------------|
-| ASC 405 | Liabilities | Derecognition, extinguishment |
-| ASC 410 | Asset Retirement and Environmental Obligations | AROs |
-| ASC 420 | Exit or Disposal Cost Obligations | Restructuring |
-| ASC 430 | Deferred Revenue | Contract liabilities |
-| ASC 440 | Commitments | Purchase commitments |
+| [ASC 405](asc-405-liabilities.md) | **Liabilities** | Derecognition, extinguishment |
+| [ASC 410](asc-410-asset-retirement-obligations.md) | **Asset Retirement and Environmental Obligations** | AROs |
+| [ASC 420](asc-420-exit-disposal-costs.md) | **Exit or Disposal Cost Obligations** | Restructuring |
+| [ASC 430](asc-430-deferred-revenue.md) | **Deferred Revenue** | Contract liabilities |
+| [ASC 440](asc-440-commitments.md) | **Commitments** | Purchase commitments |
 | [ASC 450](asc-450-contingencies.md) | **Contingencies** | Loss and gain contingencies |
-| ASC 460 | Guarantees | Product warranties, indemnifications |
+| [ASC 460](asc-460-guarantees.md) | **Guarantees** | Product warranties, indemnifications |
 | [ASC 470](asc-470-debt.md) | **Debt** | Modifications, debt issuance costs |
-| ASC 480 | Distinguishing Liabilities from Equity | Redeemable instruments |
+| [ASC 480](asc-480-liabilities-equity.md) | **Distinguishing Liabilities from Equity** | Redeemable instruments |
 | [ASC 842](asc-842-leases.md) | **Leases** | Right-of-use model |
 
 ---

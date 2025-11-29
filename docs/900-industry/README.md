@@ -20,17 +20,17 @@ The 900 series provides industry-specific accounting guidance that supplements t
 | ASC 928 | Entertainment—Music | Advances, royalties |
 | ASC 930 | Extractive Activities—Mining | Exploration costs |
 | ASC 932 | Extractive Activities—Oil and Gas | Full cost vs. successful efforts |
-| ASC 940 | Financial Services—Brokers and Dealers | Commission revenue |
-| ASC 942 | Financial Services—Depository and Lending | Loan origination fees |
-| ASC 944 | Financial Services—Insurance | Insurance contracts |
-| ASC 946 | Financial Services—Investment Companies | NAV measurement |
+| [ASC 940](asc-940-brokers-dealers.md) | **Financial Services—Brokers and Dealers** | Commission revenue |
+| [ASC 942](asc-942-depository-lending.md) | **Financial Services—Depository and Lending** | Loan origination fees |
+| [ASC 944](asc-944-insurance.md) | **Financial Services—Insurance** | Insurance contracts |
+| [ASC 946](asc-946-investment-companies.md) | **Financial Services—Investment Companies** | NAV measurement |
 | ASC 948 | Financial Services—Mortgage Banking | Servicing rights |
 | ASC 950 | Financial Services—Title Plant | Title insurance |
 | ASC 952 | Franchisors | Initial franchise fees |
 | ASC 954 | Health Care Entities | Charity care, malpractice |
 | ASC 958 | Not-for-Profit Entities | Contributions, functional expenses |
 | ASC 960-965 | Plan Accounting | Pension and benefit plan reporting |
-| ASC 970 | Real Estate—General | Operating properties, time-shares |
+| [ASC 970](asc-970-real-estate.md) | **Real Estate—General** | Operating properties, time-shares |
 | ASC 972 | Real Estate—Common Interest | HOAs, condominiums |
 | ASC 974 | Real Estate—REITs | REIT-specific guidance |
 | ASC 976 | Real Estate—Retail Land | Retail land sales |
