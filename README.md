@@ -73,6 +73,22 @@ The PCC provides **cost-saving alternatives** for private companies. These elect
 
 ---
 
+## Industry Deep-Dive Guides
+
+Comprehensive, end-to-end accounting guides for specific industries — going beyond the codification to cover practical application, financial statement presentation, and audit considerations.
+
+| Industry | Guide | Key Topics |
+|----------|-------|------------|
+| **Construction** | [Construction Contractors](docs/industry-guides/construction-contractors.md) | % complete revenue, WIP schedules, change orders, claims, bonding |
+| *Real Estate* | *Coming Soon* | Development, rentals, CAM charges |
+| *Manufacturing* | *Coming Soon* | Inventory costing, overhead allocation |
+| *Healthcare* | *Coming Soon* | Reimbursement, charity care |
+| *Professional Services* | *Coming Soon* | Time billing, contingent fees |
+
+**[View All Industry Guides →](docs/industry-guides/README.md)**
+
+---
+
 ## How to Use This Guide
 
 ### For Each Standard
