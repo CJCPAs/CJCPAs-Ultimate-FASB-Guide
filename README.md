@@ -116,5 +116,3 @@ This guide is maintained to help CPAs navigate complex accounting standards. If 
 This guide is intended for educational and reference purposes only. It does not constitute professional accounting advice. Always consult the authoritative literature (ASC) and qualified professionals for specific accounting questions. The unofficial interpretations and plain English explanations represent the author's understanding and may not reflect the views of FASB, AICPA, or other standard-setting bodies.
 
 ---
-
-© 2025 CJCPAs-Ultimate-FASB-Guide | Built for CPAs, by CPAs
