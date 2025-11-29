@@ -45,6 +45,8 @@ The 900 series provides industry-specific accounting guidance that supplements t
 
 ### ASC 954: Health Care Entities
 
+📌 **Major Standard — Detailed guide available:** [ASC 954: Health Care Entities](asc-954-healthcare-entities.md)
+
 **Key Topics:**
 
 | Area | Guidance |
@@ -62,7 +64,7 @@ The 900 series provides industry-specific accounting guidance that supplements t
 
 ### ASC 958: Not-for-Profit Entities
 
-📌 **Critical for nonprofits and their auditors**
+📌 **Critical for nonprofits and their auditors — Detailed guide available:** [ASC 958: Not-for-Profit Entities](asc-958-not-for-profit.md)
 
 **Key Concepts:**
 
@@ -131,6 +133,8 @@ The 900 series provides industry-specific accounting guidance that supplements t
 ---
 
 ### ASC 985: Software
+
+📌 **Major Standard — Detailed guide available:** [ASC 985: Software](asc-985-software.md)
 
 **ASC 985-20: Costs of Software to Be Sold, Leased, or Marketed**
 
