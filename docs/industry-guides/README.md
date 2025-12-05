@@ -2,11 +2,13 @@
 
 [← Back to Main Guide](../../README.md)
 
+> **Note:** These guides are for informational purposes only. Always verify current requirements with the [FASB Codification](https://asc.fasb.org/) and consult with qualified professionals for your specific situation.
+
 ---
 
 ## Overview
 
-These comprehensive industry guides go beyond the ASC codification to provide **practical, end-to-end accounting guidance** for specific types of businesses. Each guide covers the complete accounting lifecycle including:
+These industry guides go beyond the ASC codification to provide **practical accounting guidance** for specific types of businesses. Each guide covers key aspects of the accounting lifecycle including:
 
 - Applicable GAAP standards
 - Industry-specific accounting policies
@@ -48,14 +50,14 @@ Each industry guide follows a consistent format:
 7. **Key Financial Ratios** — Industry benchmarks and metrics
 8. **Common Audit Issues** — High-risk areas and procedures
 9. **Private Company Considerations** — PCC alternatives and practical expedients
-10. **Sample Journal Entries** — Complete transaction examples
+10. **Sample Journal Entries** — Transaction examples
 11. **Sample Disclosures** — Ready-to-use disclosure templates
 
 ---
 
 ## How to Use These Guides
 
-These guides are designed to be **comprehensive references** for CPAs working with clients in specific industries. Use them to:
+These guides are designed as **practical references** for CPAs working with clients in specific industries. Use them to:
 
 - Understand industry-specific accounting requirements
 - Prepare and review financial statements

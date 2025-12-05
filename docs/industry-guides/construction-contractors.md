@@ -1,6 +1,8 @@
-# Construction Contractors — Complete Industry Guide
+# Construction Contractors — Industry Guide
 
 [← Back to Main Guide](../../README.md) | [← Industry Guides](README.md)
+
+> **Note:** This guide is for informational purposes only. Construction accounting involves significant judgment and complexity. Always verify current requirements with the [FASB Codification](https://asc.fasb.org/) and consult with qualified professionals for your specific situation.
 
 ---
 
