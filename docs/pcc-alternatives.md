@@ -1,10 +1,12 @@
-# Private Company Council (PCC) Alternatives — Complete Guide
+# Private Company Council (PCC) Alternatives Guide
 
 [← Back to Main Guide](../README.md)
 
+> **Note:** This guide is for informational purposes only. Always verify current requirements with the [FASB Codification](https://asc.fasb.org/) and consult with qualified professionals for your specific situation.
+
 ---
 
-The **Private Company Council (PCC)** was established by FASB in 2012 to improve the standard-setting process for private companies. The PCC has issued numerous alternatives that provide **cost-effective relief** while maintaining decision-useful financial information.
+The **Private Company Council (PCC)** was established by FASB in 2012 to improve the standard-setting process for private companies. The PCC has issued alternatives that provide **cost-effective relief** while maintaining decision-useful financial information.
 
 ---
 
