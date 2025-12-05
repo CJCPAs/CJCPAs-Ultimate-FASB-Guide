@@ -255,5 +255,3 @@ You should always consult with a qualified professional when:
 **If you need professional assistance, please consult with a licensed CPA or accountant in your jurisdiction.**
 
 ---
-
-© 2025 CJCPAs-Ultimate-FASB-Guide | A community-driven open source project
